@@ -1,6 +1,41 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐤Togeduck%&fontSize=90)
 # 👋 We are Team-Hot6 👋
+# 👨‍👩‍👧‍👦 팀원 소개
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/94KJS">
+        <sub><b>김준식</b></sub></a><br />
+        <sub><b>Captin</b></sub></a><br />
+        <a href="https://github.com/94KJS">🙍‍♂️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/9yuhyeon">
+        <sub><b>김규현</b></sub></a><br />
+        <sub><b>Member</b></sub></a><br />
+        <a href="https://github.com/9yuhyeon">🙍‍♂️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jihyun-cho-0">
+        <sub><b>조지현</b></sub></a><br />
+        <sub><b>Member</b></sub></a><br />
+        <a href="https://github.com/jihyun-cho-0">🙍</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Carrotww">
+        <sub><b>유형석</b></sub></a><br />
+        <sub><b>Member</b></sub></a><br />
+        <a href="https://github.com/Carrotww">🙍‍♂️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sunmi-park">
+        <sub><b>박선미</b></sub></a><br />
+        <sub><b>Member</b></sub></a><br />
+        <a href="https://github.com/sunmi-park">🙍</a>
+    </td>
+  </tr>
+</table>
 
 ## 취미 공유 플랫폼
 - 모임을 만들고 사람을 찾을 수 있는 workshop
