@@ -1,8 +1,43 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐤Togeduck%&fontSize=90)
 # 👋 We are Team-Hot6 👋
+# 👨‍👩‍👧‍👦 팀원 소개
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/94KJS">
+        <sub><b>김준식</b></sub></a><br />
+        <sub><b>Captin</b></sub></a><br />
+        <a href="https://github.com/94KJS">🙍‍♂️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/9yuhyeon">
+        <sub><b>김규현</b></sub></a><br />
+        <sub><b>Member</b></sub></a><br />
+        <a href="https://github.com/9yuhyeon">🙍‍♂️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jihyun-cho-0">
+        <sub><b>조지현</b></sub></a><br />
+        <sub><b>Member</b></sub></a><br />
+        <a href="https://github.com/jihyun-cho-0">🙍</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Carrotww">
+        <sub><b>유형석</b></sub></a><br />
+        <sub><b>Member</b></sub></a><br />
+        <a href="https://github.com/Carrotww">🙍‍♂️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sunmi-park">
+        <sub><b>박선미</b></sub></a><br />
+        <sub><b>Member</b></sub></a><br />
+        <a href="https://github.com/sunmi-park">🙍</a>
+    </td>
+  </tr>
+</table>
 
-## 취미 공유 플랫폼
+## 👨‍👩‍👧‍👦 취미 공유 플랫폼
 - 모임을 만들고 사람을 찾을 수 있는 workshop
 - 사람들과 같은 관심사를 가지고 소통할 수 있는 community
 - 편리한 모임 합류를 위한 채팅, 지도, 결제 기능 제공
@@ -70,9 +105,36 @@ last_name = models.CharField(max_length=40)
 - 📌 AWS 서버를 이용하여 Daphne를 이용한 배포 예정
 
 ### 5. 머신러닝
-- 📌 비속어 필터링 모델 채팅 기능에 추가 예정
+### 📌 비속어 필터링 모델 채팅 기능에 추가 예정
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 와이어프레임
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68728092-c939-4531-8b45-ebc866885360/Untitled.png)
+
+-ERD
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68728092-c939-4531-8b45-ebc866885360/Untitled.png)
+
+-API
+ https://www.notion.so/7b72107e734640e4b92d6305ec0db12b?v=c88e7821924c401ea4e8f2f9372e70f1
