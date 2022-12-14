@@ -76,30 +76,3 @@ last_name = models.CharField(max_length=40)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 와이어프레임
-![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68728092-c939-4531-8b45-ebc866885360/Untitled.png)
-
--ERD
-![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68728092-c939-4531-8b45-ebc866885360/Untitled.png)
-
--API
- https://www.notion.so/7b72107e734640e4b92d6305ec0db12b?v=c88e7821924c401ea4e8f2f9372e70f1
