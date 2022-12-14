@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐤Togeduck%&fontSize=90)
 # 👋 We are Team-Hot6 👋
-# 👨‍👩‍👧‍👦 팀원 소개
+## 👨‍👩‍👧‍👦 팀원 소개
 <table>
   <tr>
     <td align="center">
@@ -44,35 +44,35 @@
 ## 🖼️ 와이어프레임
 <img src="https://user-images.githubusercontent.com/113074921/207654055-4deed7a7-cf6e-452f-8746-f2442abe286c.png" width="700px" height="500px">
 
-## ERD
+## 📋 ERD
 <img src="https://user-images.githubusercontent.com/113074921/207654453-b67f223a-c317-4fea-837f-3d2d984530ae.png" width="700px" height="500px">
 <img src="https://user-images.githubusercontent.com/113074921/207654666-9f69b4fb-1988-478e-9892-cde01d9c99ad.png" width="700px" height="500px">
 
-## API 설계
+## 📋 API 설계
 https://www.notion.so/7b72107e734640e4b92d6305ec0db12b?v=082c5f8ae76f438ca4b50a4d304f509a
 
 ### 🤙 Convention
-## 📄 커밋 컨벤션
+## ⭐ 커밋 컨벤션
  - create : 생성
  - update : 수정
  - delete : 삭제
  - temp : 임시
 
-## 📄 네이밍 컨벤션
+## ⭐ 네이밍 컨벤션
 
-### 🧲 URL name 패턴 이름에는 언더바(_)를 사용
+### 👉 URL name 패턴 이름에는 언더바(_)를 사용
 url(...
 name='add_topping')
 
-### 🧲 클래스명은 CamelCase로 작성 (UserView)
+### 👉 클래스명은 CamelCase로 작성 (UserView)
 class BlogWriter:
 pass
 
-### 🧲 Variable, Function, Method의 이름은 underscore로 작성
+### 👉 Variable, Function, Method의 이름은 underscore로 작성
 def get_unique_voters():
 pass
 
-### 🧲 Model Field 이름은 underscore로 
+### 👉 Model Field 이름은 underscore로 
 class Person(models.Model):
 first_name = models.CharField(max_length=20)
 last_name = models.CharField(max_length=40)
