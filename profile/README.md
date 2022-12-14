@@ -1,16 +1,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐤Togeduck%&fontSize=90)
-# 👋 We are Team-Hot6 
+# 👋 We are Team-Hot6 👋
 
-Convention
-
-## 커밋 컨벤션
+### 🤙 Convention
+## 📄 커밋 컨벤션
  - create : 생성
  - update : 수정
  - delete : 삭제
  - temp : 임시
 
-## 네이밍 컨벤션
+## 📄 네이밍 컨벤션
 
 ### 🧲 URL name 패턴 이름에는 언더바(_)를 사용
 url(...
@@ -29,7 +28,7 @@ class Person(models.Model):
 first_name = models.CharField(max_length=20)
 last_name = models.CharField(max_length=40)
 
-## 개발 환경
+## ⚒ 개발 환경
 - **개발언어** 
 `JavaScript` `python`
 
@@ -48,7 +47,7 @@ last_name = models.CharField(max_length=40)
 # 🕖 중간 점검 2022_12_2 ~ 2022_12_14
 ## 남은 기간 목표
 ### 1. 기능 다듬기
-- 📌 Article app 과 Workshop app 에서 Category 별 최신순, 인기순 정렬 기능(CRUD 다듬기)
+- 📌 Article app 과 Workshop app 에서 Category 별 최신순, 인기순 정렬 기능(CRUD 다듬기)\n
 📌  
 
 ### 2. 목표 추가 기능
