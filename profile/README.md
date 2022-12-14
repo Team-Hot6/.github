@@ -36,12 +36,12 @@
   </tr>
 </table>
 
-## 취미 공유 플랫폼
+## 🏂 취미 공유 플랫폼
 - 모임을 만들고 사람을 찾을 수 있는 workshop
 - 사람들과 같은 관심사를 가지고 소통할 수 있는 community
 - 편리한 모임 합류를 위한 채팅, 지도, 결제 기능 제공
 
-## 와이어프레임
+## 🖼️ 와이어프레임
 <img src="https://user-images.githubusercontent.com/113074921/207654055-4deed7a7-cf6e-452f-8746-f2442abe286c.png" width="700px" height="500px">
 
 ## ERD
