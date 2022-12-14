@@ -2,6 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐤Togeduck%&fontSize=90)
 # 👋 We are Team-Hot6 👋
 
+## 취미 공유 플랫폼
+- 모임을 만들고 사람을 찾을 수 있는 workshop
+- 사람들과 같은 관심사를 가지고 소통할 수 있는 community
+- 편리한 모임 합류를 위한 채팅, 지도, 결제 기능 제공
+
 ### 🤙 Convention
 ## 📄 커밋 컨벤션
  - create : 생성
@@ -47,14 +52,14 @@ last_name = models.CharField(max_length=40)
 # 🕖 중간 점검 2022_12_2 ~ 2022_12_14
 ## 남은 기간 목표
 ### 1. 기능 다듬기
-- 📌 Article app 과 Workshop app 에서 Category 별 최신순, 인기순 정렬 기능(CRUD 다듬기)\n
-📌  
+- 📌 Article app 과 Workshop app 에서 Category 별 최신순, 인기순 정렬 기능(CRUD 다듬기)
 
 ### 2. 목표 추가 기능
 - 📌 Kakao 지도 api를 이용한 워크샵 시행 위치를 사용자에게 직관적으로 제공
 - 📌 소셜 로그인 도입으로 사용자 편의 증대
 - 📌 아임포트를 이용한 결제 모델 추가 or kakao 네이버 결제 api 도입 목표
 - 📌 Chat app 읽은 채팅, 읽지 않은 채팅 식별과 채팅알림 기능 추가
+- 📌 django cron tab 을 이용한 실시간 인기 게시물 시간, 좋아요, 조회수의 점수를 조합하여 갱신
 
 ### 3. 수정될 디자인
 - 📌 워크샵, 커뮤니티를 제외한 부분 전반적인 수정
