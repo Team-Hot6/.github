@@ -4,45 +4,45 @@
 
 Convention
 
-1. 커밋 컨벤션
+## 커밋 컨벤션
  - create : 생성
  - update : 수정
  - delete : 삭제
  - temp : 임시
 
-2. 네이밍 컨벤션
+## 네이밍 컨벤션
 
-# 🧲 URL name 패턴 이름에는 언더바(_)를 사용
+### 🧲 URL name 패턴 이름에는 언더바(_)를 사용
 url(...
 name='add_topping')
 
-# 🧲 클래스명은 CamelCase로 작성 (UserView)
+### 🧲 클래스명은 CamelCase로 작성 (UserView)
 class BlogWriter:
 pass
 
-# 🧲 Variable, Function, Method의 이름은 underscore로 작성
+### 🧲 Variable, Function, Method의 이름은 underscore로 작성
 def get_unique_voters():
 pass
 
-# 🧲 Model Field 이름은 underscore로 
+### 🧲 Model Field 이름은 underscore로 
 class Person(models.Model):
 first_name = models.CharField(max_length=20)
 last_name = models.CharField(max_length=40)
 
-개발 환경
-**개발언어** 
+## 개발 환경
+- **개발언어** 
 `JavaScript` `python`
 
-**머신러닝 모델** 
+- **머신러닝 모델** 
 (미정)
 
-**데이터베이스** 
+- **데이터베이스** 
 `SQLite3`
 
-**개발환경** 
+- **개발환경** 
 `djangorestframework 3.14.0`
 
-**배포환경** 
+- **배포환경** 
 `docker` `Ubuntu Server 22.04` `PostgreSQL` `Daphne` `EC2`
 
 # 🕖 중간 점검 2022_12_2 ~ 2022_12_14
