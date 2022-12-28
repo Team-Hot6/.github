@@ -131,7 +131,11 @@ last_name = models.CharField(max_length=40)
 - [x] AWS 서버를 이용하여 Daphne를 이용한 배포 예정
 
 # 🏹 Trouble Shooting
-- 
+- 1. docker의 volume이 지워지지 않아 migration 오류 발생
+  해결 : docker system prune -a -volumes 명령어로 볼륨까지 모두 삭제 후 migration 진행
+- 2. SSL 적용 후 채팅 기능 작동하지 않음
+  해결 : 인증서는 Domain에 적용하였는데 Url은 IP 주소를 사용하여 발생한 문제로, IP 주소를 인증서가 적용된 Domain으로 변경하여 해결
+
 
 # 💡 사용자 피드백 (개선 완료된 사항)
 - 회원가입 시 카테고리를 선택했을 때 아무 효과가 없어서 카테고리가 선택되었는지 안되었는지 알 수가 없어요
