@@ -111,7 +111,7 @@ first_name = models.CharField(max_length=20)
 last_name = models.CharField(max_length=40)
 
 # 🕖 중간 점검 2022/12/02 ~ 2022/12/14
-## 남은 기간 목표
+## 남은 기간 목표(달성한 목표는 체크박스에서 체크로 표시)
 ### 1. 기능 다듬기
 - [x] Article app 과 Workshop app 에서 Category 별 최신순, 인기순 정렬 기능(CRUD 다듬기)
 
