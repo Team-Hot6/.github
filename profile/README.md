@@ -81,7 +81,7 @@
 <img src="https://user-images.githubusercontent.com/113074921/207654666-9f69b4fb-1988-478e-9892-cde01d9c99ad.png" width="700px" height="500px">
 
 ## 📋 API 설계
-https://www.notion.so/7b72107e734640e4b92d6305ec0db12b?v=082c5f8ae76f438ca4b50a4d304f509a
+https://www.notion.so/7b72107e734640e4b92d6305ec0db12b?v=c88e7821924c401ea4e8f2f9372e70f1
 
 ## ⭐ 커밋 컨벤션
  - create : 생성
