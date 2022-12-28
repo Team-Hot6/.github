@@ -77,11 +77,13 @@
 <img src="https://user-images.githubusercontent.com/113074921/207654055-4deed7a7-cf6e-452f-8746-f2442abe286c.png" width="700px" height="500px">
 
 ## 📋 ERD
-<img src="https://user-images.githubusercontent.com/113074921/207654453-b67f223a-c317-4fea-837f-3d2d984530ae.png" width="700px" height="500px">
-<img src="https://user-images.githubusercontent.com/113074921/207654666-9f69b4fb-1988-478e-9892-cde01d9c99ad.png" width="700px" height="500px">
+https://www.erdcloud.com/d/aE5HXR2pEyvyvAHYr
+<img src="https://user-images.githubusercontent.com/109906864/209798825-4eef219b-1da3-455c-b0df-a0e9c4ab274d.png" width="700px" height="500px">
 
 ## 📋 API 설계
 https://www.notion.so/7b72107e734640e4b92d6305ec0db12b?v=c88e7821924c401ea4e8f2f9372e70f1
+<img src="https://velog.velcdn.com/images/def3ff/post/566cf838-2456-4603-bc73-cbd211e409ba/image.jpg">
+
 
 ## ⭐ 커밋 컨벤션
  - create : 생성
@@ -131,7 +133,7 @@ last_name = models.CharField(max_length=40)
 # 🏹 Trouble Shooting
 - 
 
-# 💡 사용자 피드백
+# 💡 사용자 피드백 (개선 완료된 사항)
 - 회원가입 시 카테고리를 선택했을 때 아무 효과가 없어서 카테고리가 선택되었는지 안되었는지 알 수가 없어요
 - 회원가입 시 취미 카테고리를 더블 클릭하면 브라우저가 멈춰버려요
 - 카카오 계정으로 로그인 시 네비바의 닉네임이 undefined로 표기되요
